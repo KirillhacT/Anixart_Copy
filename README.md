@@ -1,2 +1,1 @@
-# This is my first big project - writing service for wathing anime
-
+# This is my first big project - writing service for watching anime
